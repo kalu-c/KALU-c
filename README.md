@@ -8,7 +8,7 @@
 
 ## Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,bun,cloudflare,rabbitmq,react,css,express,git,html,htmx,js,mongodb,nodejs,npm,tailwind,ts,postgresql,vite,bun,go,postgres,prisma,bash,cypress,md,nestjs,redis,supabase,vercel,wordpress&perline=10" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,cloudflare,rabbitmq,react,css,express,git,html,htmx,js,mongodb,nodejs,npm,tailwind,ts,postgresql,vite,bun,go,postgres,prisma,bash,cypress,md,nestjs,redis,supabase,vercel,wordpress&perline=10" alt="Technologies" />
 </p>
 
 ## Tools
